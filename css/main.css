@@ -1,0 +1,109 @@
+body{background-color: black; color: #FFFFFF;
+
+}
+header {
+    display: inline-block;
+    height: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    width: 1750px;
+
+}
+header > img {
+    display: inline-block;
+    margin-top: 25px;
+    
+    
+}
+nav {
+    display: inline-block;
+   float: right;
+   width: 80%;
+
+
+}
+nav > a {
+    display: inline-block;
+    text-decoration: none;
+    border: 5px solid transparent;
+    padding: 5px;
+    border-radius: 19px;
+    line-height: 20px;
+    font-size: 18px;
+    float: left;
+    color: #FFFFFF;
+    margin: 15px;
+    
+}
+nav > a:last-child {
+    display: inline-block;
+    text-decoration: none;
+    border: 2px solid #75A7FC;
+    padding: 10px;
+    border-radius: 19px;
+    line-height: 20px;
+    font-size: 18px;
+    float: right;
+    margin-right: 10px;
+    color: #FFFFFF;
+}
+main {
+    display: inline-block;
+    
+    margin: 10%;
+    width: 1750px;
+    
+    
+}
+div {
+    display: inline-block;
+    width: 46%;
+    
+    
+    
+}
+div > p:first-of-type {
+    display: inline-block;
+    font-style: bold;
+    float: left;
+    font-size: 100px;
+    width: 100%;
+    text-align: center;
+    
+    
+}
+div > p {
+    display: inline-block;
+    width: 100%;
+    float: left;
+    font-size: 50px;
+    text-align: center;
+}
+div > p:last-of-type {
+    display: inline-block;
+    width: 100%;
+    float: left;
+    font-size: 20px;
+    text-align: center;
+}
+div > a {
+    display: inline-block;
+    text-decoration: none;
+    border: 2px solid #75A7FC;
+    padding: 10px;
+    border-radius: 19px;
+    line-height: 20px;
+    font-size: 18px;
+    margin-right: 10px;
+    color: #FFFFFF;
+    align-items: center;
+    float: right;
+    margin-right:45%;
+    
+}
+main > img {
+    display: inline-block;
+    width: 46%;
+    float: right;
+    
+}
